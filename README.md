@@ -18,4 +18,4 @@ I'm a medical doctor by training, but work as a researcher/bioinformatician. Mos
 
 ## Get in touch
 
-Please reach out if you feel like collaborating! You can find me on [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE), [Bluesky](https://bsky.app/profile/barbaraverhaar.bsky.social) or send me a message via my [website](https://barbaraverhaar.nl).
+Please reach out if you feel like collaborating! You can find me on [LinkedIn](https://www.linkedin.com/in/barbara-verhaar/), [Bluesky](https://bsky.app/profile/barbaraverhaar.bsky.social) or send me a message via my [website](https://barbaraverhaar.nl).
